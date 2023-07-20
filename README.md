@@ -1,4 +1,4 @@
-Here we provide a C++ demo about GPT2. Optimize the post-processing through the custom node of the OpenVINO ppp API, that is, insert some custom operations like TopK. Thereby reducing the latency of the pipeline.
+Here we provide a C++ demo about GPT2. Optimize the post-processing through the custom node of the [OpenVINO PPP API](https://docs.openvino.ai/2023.0/openvino_docs_OV_UG_Preprocessing_Details.html), that is, insert some custom operations like TopK. Thereby reducing the latency of the pipeline.
 
 GPT2 Introduction
 ------
